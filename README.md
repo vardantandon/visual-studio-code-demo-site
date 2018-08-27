@@ -9,8 +9,7 @@ This enables to directy open a project folder from the terminal using -> code .
 1. cmd+shift+P - opens search all commands
 2. Search for shell and select **Install 'code' command in PATH**
 
-<!-- ---------------------------------------------------------------------------------------- -->
-==================================================================================
+----------------------------------------------------------------------------------------
 
 ### Basic Editing 
 
@@ -19,7 +18,7 @@ cmd+shift+E -> Explorer Pane
 
 cmd+shift+F -> Search Pane 
 
-cmd+shift+G -> Source Control
+cmd+shift+G -> Source Control (User defined)
 
 cmd+shift+D -> Debug Pane 
 
@@ -118,4 +117,33 @@ Format on Paste -> Formats a section that is pasted, Can be enabled in user sett
 #### Web Code editing
 
 cmd + / -> comment sections of code
+
 /** + enter -> javascript doc comments 
+
+cmd + K + V -> Markdown file preview on side
+
+cmd + K + H -> HTML preview on side (HTML Preview Extention)
+
+Emmet support -> shortcuts for HTML snippets. Please refer to [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+
+#### Navigating Code
+
+control + g -> Specific line in code
+
+cmd + shift + o -> Navigate to specific symbols/elements
+
+cmd + p -> all files in order when the file was recently opened
+
+#### Multiple Selections
+
+cmd + d -> selects word , and next occurance of the word
+
+cmd + shift + l -> selects all occurance of a word 
+
+control + alt + ^ -> add cursor on top (User defined)
+
+control + alt + v -> add cursor on bottom (User defined)
+
+control + alt + shift + ^ -> expand selection (User defined)
+ 
+control + alt + shift + v -> shrink selection (User defined)
