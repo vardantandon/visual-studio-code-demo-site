@@ -27,6 +27,9 @@ cmd+shift+X -> Extentions Pane
 #### Search all commands
 cmd+shift+P -> search all commands
 
+#### Format code
+alt + shift + F 
+
 #### Zen Mode
 cmd + K + Z -> Zen mode
 
