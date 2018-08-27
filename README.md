@@ -124,7 +124,7 @@ cmd + K + V -> Markdown file preview on side
 
 cmd + K + H -> HTML preview on side (HTML Preview Extention)
 
-Emmet support -> shortcuts for HTML snippets. Please refer to [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+Emmet support -> shortcuts for HTML snippets. Please refer to<a href="https://docs.emmet.io/cheat-sheet/" target="_blank">Emmet Cheat Sheet</a>
 
 #### Navigating Code
 
