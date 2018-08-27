@@ -9,7 +9,8 @@ This enables to directy open a project folder from the terminal using -> code .
 1. cmd+shift+P - opens search all commands
 2. Search for shell and select **Install 'code' command in PATH**
 
-----------------------------------------------------------------------------------------
+<!-- ---------------------------------------------------------------------------------------- -->
+==================================================================================
 
 ### Basic Editing 
 
@@ -72,6 +73,8 @@ cmd + K + cmd + S
 
 #### Files or Folders
 
+cmd + N -> New File
+
 Single click -> File in preview mode
 
 Double click -> File in persistant mode
@@ -92,3 +95,27 @@ cmd + alt + 0  -> toggle side by side or top and bottom
 
 cmd + 1-3 -> Switch between groups
 
+#### Find 
+
+cmd + f -> Search a file 
+
+cmd+shift+f -> Search all = files
+
+----------------------------------------------------------------------------------------
+
+### Advanced Editing
+
+#### Editor features
+
+Hot Save -> Keeps a copy of the unsaved file if VS code crashes
+
+Autosave -> Can be enabled (After delay) in user settings
+
+Format on Save -> Formats a file as it's saved , Can be enabled in user settings
+
+Format on Paste -> Formats a section that is pasted, Can be enabled in user settings
+
+#### Web Code editing
+
+cmd + / -> comment sections of code
+/** + enter -> javascript doc comments 
