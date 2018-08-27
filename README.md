@@ -65,3 +65,30 @@ cmd + K + cmd + S
 ##### Express: Hosts your workspace with an express web server
 
 ##### REST Client: Send HTTP requests and check the response directly (check testrest.http)
+
+----------------------------------------------------------------------------------------
+
+### Using the editor
+
+#### Files or Folders
+
+Single click -> File in preview mode
+
+Double click -> File in persistant mode
+
+control + tab -> Switch between tabs
+
+cmd + alt + t -> close all tabs except current
+
+cmd + shift + t -> open recently closed tabs
+
+cmd + alt + r -> select a file and open in finder
+
+cmd + \ -> Open file side by side
+
+cmd + alt + 0  -> toggle side by side or top and bottom 
+
+**cmd + 1 -> Focus on code editor**
+
+cmd + 1-3 -> Switch between groups
+
