@@ -63,3 +63,5 @@ cmd + K + cmd + S
 ##### Beautify: Formats your source code
 
 ##### Express: Hosts your workspace with an express web server
+
+##### REST Client: Send HTTP requests and check the response directly (check testrest.http)
