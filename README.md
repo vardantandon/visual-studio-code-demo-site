@@ -2,8 +2,6 @@
 
 The repo includes the source code for a dummy website to test Visual Studio Code.
 
-----------------------------------------------------------------------------------------
-
 ## Shortcut Commands
 
 ### Adding code in shell 
