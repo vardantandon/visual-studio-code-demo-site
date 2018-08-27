@@ -24,6 +24,8 @@ cmd+shift+D -> Debug Pane
 
 cmd+shift+X -> Extentions Pane
 
+cmd + B -> Toggle SideBar
+
 #### Search all commands
 cmd+shift+P -> search all commands
 
@@ -49,3 +51,15 @@ cmd + , -> Opens User Settings
 cmd + K + cmd + S
 
 ----------------------------------------------------------------------------------------
+
+### Extentions
+
+##### Snippets: Makes it easier and faster to write code
+1. HTML Snippets
+2. Javascript ES6 code snippets
+3. jQuery Code snippets
+4. Angular 6 code snippets
+
+##### Beautify: Formats your source code
+
+##### Express: Hosts your workspace with an express web server
