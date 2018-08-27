@@ -1,6 +1,6 @@
 # Tutorial for Visual Studio Code
 
-The repo includes the source code for a dummy website to test Visual Studio Code.
+The repo includes the source code for a dummy website in the Exercise Files Folder to test Visual Studio Code.
 
 ## Shortcut Commands
 
