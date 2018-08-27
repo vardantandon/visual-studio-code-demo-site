@@ -30,3 +30,8 @@ cmd + K + Z -> Zen mode
 
 ### Integrated Terminal
 control + ` -> Opens Terminal (toggle)
+
+### VC Code Settings
+cmd + , -> Opens User Settings
+
+
