@@ -1,3 +1,3 @@
-# Dummy Site for Testing on Visual Studio Code
+# Tutorial for Visual Studio Code - Lynda.com
 
-A sample website for testing on Visual Studio Code (taken from lynda.com)
+The repo includes a list of docs for each chapter along with an Exercise Files folder that includes the source code for a website to test Visual Studio Code.
