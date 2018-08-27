@@ -13,9 +13,13 @@ This enables to directy open a project folder from the terminal using -> code .
 
 #### Navigation Pane
 cmd+shift+E -> Explorer Pane
+
 cmd+shift+F -> Search Pane 
+
 cmd+shift+G -> Source Control
+
 cmd+shift+D -> Debug Pane 
+
 cmd+shift+X -> Extentions Pane
 
 #### Search all commands
